@@ -6,7 +6,7 @@ Bienvenue sur mon profil GitHub ! Je suis Justin, un étudiant en génie logic
 
 ### 🔭 Mes Projets
 - **Amplogix : un simulateur de circuit électrique en temps réel** :  
-  Un simulateur de circuits électriques en temps réel, développé avec **Unity** et basé sur le **calculs matriciels** pour garantir des simulations précises et performantes. Ce projet m’a permis d’approfondir mes connaissances en mathématique, en physique et interface utilisateur.  
+  Un simulateur de circuits électriques en temps réel, développé avec **Unity** et basé sur le **calculs matriciels** pour garantir des simulations précises et performantes. Ce projet m’a permis d’approfondir mes connaissances en mathématique, en physique et interface utilisateur.
   *[> Amplogix sur Github](https://github.com/justinfiset/Amplogix)*
 
 - **Elevate Engine : Moteur de jeu en C++** *(Projet actuel)* :  
