@@ -6,12 +6,10 @@ Bienvenue sur mon profil GitHub ! Je suis Justin, un étudiant en génie logic
 
 ### 🔭 Mes Projets
 - **Amplogix : un simulateur de circuit électrique en temps réel** :  
-  Un simulateur de circuits électriques en temps réel, développé avec **Unity** et basé sur le **calculs matriciels** pour garantir des simulations précises et performantes. Ce projet m’a permis d’approfondir mes connaissances en mathématique, en physique et interface utilisateur.
-  *[> Amplogix sur Github](https://github.com/justinfiset/Amplogix)*
+  Un simulateur de circuits électriques en temps réel, développé avec **Unity** et basé sur le **calculs matriciels** pour garantir des simulations précises et performantes. Ce projet m’a permis d’approfondir mes connaissances en mathématique, en physique et interface utilisateur. *[> Amplogix sur Github](https://github.com/justinfiset/Amplogix)*
 
 - **Elevate Engine : Moteur de jeu en C++** *(Projet actuel)* :  
-  Développement d’un moteur de jeu à partir de zéro en utilisant **C++** et **OpenGL**. Ce projet inclut la conception de systèmes de rendu, la gestion de shaders, l’implémentation de systèmes entité-composant, et bien plus encore!
-  *[> Elevate Engine sur Github](https://github.com/justinfiset/Elevate-Engine)*
+  Développement d’un moteur de jeu à partir de zéro en utilisant **C++** et **OpenGL**. Ce projet inclut la conception de systèmes de rendu, la gestion de shaders, l’implémentation de systèmes entité-composant, et bien plus encore! *[> Elevate Engine sur Github](https://github.com/justinfiset/Elevate-Engine)*
 
 ---
 
@@ -30,7 +28,7 @@ Bienvenue sur mon profil GitHub ! Je suis Justin, un étudiant en génie logic
 ### 📫 Me contacter
 - Email : [Cliquez-ici pour me contacter](mailto:justinfiset@hotmail.fr)
 - LinkedIn : [Cliquez-ici pour voir mon profil](https://www.linkedin.com/in/justin-fiset-925024172/)
-- Portfolio : [Cliquez-ici](justinfiset.github.io)
+- Portfolio : [Cliquez-ici](https://justinfiset.github.io)
 
 ---
 
