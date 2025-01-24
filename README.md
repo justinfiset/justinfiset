@@ -29,5 +29,3 @@ Bienvenue sur mon profil GitHub ! Je suis Justin, un étudiant en génie logic
 - Email : [Cliquez-ici pour me contacter](mailto:justinfiset@hotmail.fr)
 - LinkedIn : [Cliquez-ici pour voir mon profil](https://www.linkedin.com/in/justin-fiset-925024172/)
 - Portfolio : [Cliquez-ici](https://justinfiset.github.io)
-
----
