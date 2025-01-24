@@ -31,5 +31,3 @@ Bienvenue sur mon profil GitHub ! Je suis Justin, un étudiant en génie logic
 - Portfolio : [Cliquez-ici](https://justinfiset.github.io)
 
 ---
-
-N’hésite pas à explorer mes dépôts, à collaborer et surtout, à me contacter. Construisons quelque chose d’incroyable ensemble ! 🚀
