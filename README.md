@@ -6,11 +6,14 @@ Bienvenue sur mon profil GitHub ! Je suis Justin, un étudiant en génie logic
 
 ### 🔭 Mes Projets
 - **Amplogix : un simulateur de circuit électrique en temps réel** :  
-  Un simulateur de circuits électriques en temps réel, développé avec **Unity** et basé sur le **calculs matriciels** pour garantir des simulations précises et performantes. Ce projet m’a permis d’approfondir mes connaissances en mathématique, en physique et interface utilisateur. *[> Amplogix sur Github](https://github.com/justinfiset/Amplogix)*
+  Un simulateur de circuits électriques en temps réel, développé avec **Unity** et basé sur le **calculs matriciels** pour garantir des simulations précises et performantes. Ce projet m’a permis d’approfondir mes connaissances en mathématique, en physique et interface utilisateur.
+  [![Amplogix](https://img.shields.io/badge/⚡%20Amplogix-Simulateur%20de%20circuits-F28C28?style=for-the-badge&labelColor=ffffff)](https://github.com/justinfiset/Amplogix)
+
+<br>
 
 - **Elevate Engine : Moteur de jeu en C++** *(Projet actuel)* :  
-  Développement d’un moteur de jeu à partir de zéro en utilisant **C++** et **OpenGL**. Ce projet inclut la conception de systèmes de rendu, la gestion de shaders, l’implémentation de systèmes entité-composant, et bien plus encore! *[> Elevate Engine sur Github](https://github.com/justinfiset/Elevate-Engine)*
-
+  Développement d’un moteur de jeu à partir de zéro en utilisant **C++** et **OpenGL**. Ce projet inclut la conception de systèmes de rendu, la gestion de shaders, l’implémentation de systèmes entité-composant, et bien plus encore!
+  [![Elevate Engine](https://img.shields.io/badge/🎮%20Elevate%20Engine-Moteur%20de%20jeu%20C++-1DB954?style=for-the-badge&labelColor=ffffff)](https://github.com/justinfiset/Elevate-Engine)
 ---
 
 ### 🌱 Ce que j’apprends actuellement
@@ -26,6 +29,6 @@ Bienvenue sur mon profil GitHub ! Je suis Justin, un étudiant en génie logic
 ---
 
 ### 📫 Me contacter
-- Email : [Cliquez-ici pour me contacter](mailto:justinfiset@hotmail.fr)
-- LinkedIn : [Cliquez-ici pour voir mon profil](https://www.linkedin.com/in/justin-fiset-925024172/)
-- Portfolio : [Cliquez-ici](https://justinfiset.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-justinfiset.github.io-20C997?style=for-the-badge&labelColor=ffffff)](https://justinfiset.github.io)
+[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Justin%20Fiset-0A66C2?style=for-the-badge&labelColor=ffffff&logo=linkedin)](https://www.linkedin.com/in/justin-fiset-925024172/)
+[![Email](https://img.shields.io/badge/📧%20Email-justinfiset%40hotmail.fr-FF4C4C?style=for-the-badge&labelColor=ffffff)](mailto:justinfiset@hotmail.fr)
